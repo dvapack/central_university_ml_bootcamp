@@ -14,7 +14,7 @@ NC='\033[0m'
 # Vars
 remote_host="158.160.135.246"
 private_key="portforward_key"
-port_file="/tmp/random_port.txt"
+port_file="random_port.txt"
 
 
 # Loading or generating port
